@@ -1,11 +1,15 @@
 
 # Bakery Order and Custom Cake Booking Platform
 
+
 ## Project Overview
 
-The Bakery Order and Custom Cake Booking Platform is a web-based application developed as a university project during Year 1 Semester 2 (Y1S2).
+The Bakery Order and Custom Cake Booking Platform is a web-based application developed as a university group project during Year 1 Semester 2 (Y1S2).
 
-The system aims to provide customers with a convenient way to explore bakery products, place orders, and request customized cakes.
+The system provides an online platform where customers can browse bakery products, explore product categories, manage shopping cart items, and request customized cakes. It also includes user account functionality and a product management dashboard.
+
+The project aims to make bakery product browsing, ordering, and custom cake selection more convenient through a user-friendly website.
+
 
 ## Technologies Used
 
@@ -15,9 +19,19 @@ The system aims to provide customers with a convenient way to explore bakery pro
 - CSS
 - JavaScript
 
+
 ## Project Features
 
-Features will be documented based on the completed modules.
+- **User Registration:** Allows new customers to create an account.
+- **User Login:** Provides a login interface for registered users.
+- **Product Management:** Provides an admin dashboard to manage bakery products.
+- **Shopping Cart:** Allows customers to view and manage selected products.
+- **Custom Cake Selection:** Allows customers to select cake sizes and design custom cakes.
+- **Order Summary:** Displays order details for custom cake bookings.
+- **Product Categories:** Organizes bakery products into categories such as artisan cakes, fresh pastries, cookies, and treats.
+- **Contact Information:** Provides customers with bakery contact details.
+- **Menu Browsing:** Allows customers to explore available bakery products.
+
 
 ## My Learning Experience
 
