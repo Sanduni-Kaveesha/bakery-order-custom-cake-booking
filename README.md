@@ -27,3 +27,31 @@ Through this project, I gained practical experience in web application developme
 
 - Semester: Year 1 Semester 2 (Y1S2)
 - Project Type: University Group Project
+
+
+## Website Screenshots
+
+### 1. Manage Products Dashboard
+![Manage Products Dashboard](Screenshot%202026-06-25%20165927.png)
+
+### 2. Cart Dashboard
+![Cart Dashboard](Screenshot%202026-06-25%20170145.png)
+
+### 3. User Login Page
+![User Login Page](Screenshot%202026-06-25%20170720.png)
+
+### 4. Create Account (Registration)
+![Create Account Page](Screenshot%202026-06-25%20170843.png)
+
+### 5. Custom Cake – Select Size
+![Custom Cake Selection](Screenshot%202026-06-25%20171129.png)
+
+### 6. Home Page – Browse Menu and Design Custom Cake
+![Home Page Menu](Screenshot%202026-06-25%20171213.png)
+
+### 7. Home Page – Product Categories
+![Home Page Categories](Screenshot%202026-06-25%20171436.png)
+
+### 8. Home Page – Contact Details and Start Designing
+![Home Page Contact Details](Screenshot%202026-06-25%20171722.png)
+
